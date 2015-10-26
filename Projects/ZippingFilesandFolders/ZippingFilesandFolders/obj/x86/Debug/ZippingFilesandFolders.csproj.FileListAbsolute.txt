@@ -1,0 +1,10 @@
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\bin\Debug\ZippingFilesandFolders.exe
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\bin\Debug\ZippingFilesandFolders.pdb
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\bin\Debug\Ionic.Zip.dll
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\ZippingFilesandFolders.Form1.resources
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\ZippingFilesandFolders.Properties.Resources.resources
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\ZippingFilesandFolders.exe
+C:\Users\ANIRUDDHA\documents\visual studio 2010\Projects\ZippingFilesandFolders\ZippingFilesandFolders\obj\x86\Debug\ZippingFilesandFolders.pdb

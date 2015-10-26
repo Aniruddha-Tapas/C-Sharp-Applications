@@ -1,0 +1,10 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.exe.config
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.pdb

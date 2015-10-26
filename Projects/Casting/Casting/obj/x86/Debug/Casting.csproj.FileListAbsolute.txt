@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\Casting.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\Casting.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\bin\Debug\Casting.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\bin\Debug\Casting.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\Casting.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Casting\Casting\obj\x86\Debug\Casting.pdb

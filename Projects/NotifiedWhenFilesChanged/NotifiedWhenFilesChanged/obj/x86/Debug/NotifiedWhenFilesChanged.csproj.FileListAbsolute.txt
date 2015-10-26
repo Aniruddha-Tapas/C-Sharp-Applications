@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\bin\Debug\NotifiedWhenFilesChanged.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\bin\Debug\NotifiedWhenFilesChanged.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\NotifiedWhenFilesChanged.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\NotifiedWhenFilesChanged.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\NotifiedWhenFilesChanged.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\NotifiedWhenFilesChanged\NotifiedWhenFilesChanged\obj\x86\Debug\NotifiedWhenFilesChanged.pdb

@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\PictureBox.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\PictureBox.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\PictureBox.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\PictureBox\PictureBox\obj\x86\Debug\PictureBox.pdb

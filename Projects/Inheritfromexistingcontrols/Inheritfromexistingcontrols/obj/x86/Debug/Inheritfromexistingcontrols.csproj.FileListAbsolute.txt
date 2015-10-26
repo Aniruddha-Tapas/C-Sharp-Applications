@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\Inheritfromexistingcontrols.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\bin\Debug\Inheritfromexistingcontrols.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\bin\Debug\Inheritfromexistingcontrols.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\Inheritfromexistingcontrols.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\Inheritfromexistingcontrols.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Inheritfromexistingcontrols\Inheritfromexistingcontrols\obj\x86\Debug\Inheritfromexistingcontrols.Form1.resources

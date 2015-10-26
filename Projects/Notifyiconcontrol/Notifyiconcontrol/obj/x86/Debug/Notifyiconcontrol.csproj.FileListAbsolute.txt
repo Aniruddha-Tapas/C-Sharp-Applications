@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\bin\Debug\Notifyiconcontrol.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\bin\Debug\Notifyiconcontrol.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\Notifyiconcontrol.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\Notifyiconcontrol.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\Notifyiconcontrol.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Notifyiconcontrol\Notifyiconcontrol\obj\x86\Debug\Notifyiconcontrol.pdb

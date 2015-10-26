@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\bin\Debug\Timercontrol.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\bin\Debug\Timercontrol.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\Timercontrol.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\Timercontrol.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\Timercontrol.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Timercontrol\Timercontrol\obj\x86\Debug\Timercontrol.pdb

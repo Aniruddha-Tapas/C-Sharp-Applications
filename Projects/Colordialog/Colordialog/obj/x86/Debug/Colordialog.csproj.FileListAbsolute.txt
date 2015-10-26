@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\bin\Debug\Colordialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\bin\Debug\Colordialog.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\Colordialog.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\Colordialog.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\Colordialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Colordialog\Colordialog\obj\x86\Debug\Colordialog.pdb

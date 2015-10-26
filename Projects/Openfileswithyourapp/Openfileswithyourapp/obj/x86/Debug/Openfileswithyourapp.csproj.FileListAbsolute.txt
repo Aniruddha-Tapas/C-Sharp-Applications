@@ -1,0 +1,8 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\bin\Debug\Openfileswithyourapp.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\bin\Debug\Openfileswithyourapp.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\Openfileswithyourapp.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\Openfileswithyourapp.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Openfileswithyourapp\Openfileswithyourapp\obj\x86\Debug\Openfileswithyourapp.pdb

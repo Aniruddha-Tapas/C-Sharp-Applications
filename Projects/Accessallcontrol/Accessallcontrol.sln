@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessallcontrol", "Accessallcontrol\Accessallcontrol.csproj", "{C3A33F7A-89B5-492F-923D-5CFEA6DE961E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A33F7A-89B5-492F-923D-5CFEA6DE961E}.Debug|x86.ActiveCfg = Debug|x86
+		{C3A33F7A-89B5-492F-923D-5CFEA6DE961E}.Debug|x86.Build.0 = Debug|x86
+		{C3A33F7A-89B5-492F-923D-5CFEA6DE961E}.Release|x86.ActiveCfg = Release|x86
+		{C3A33F7A-89B5-492F-923D-5CFEA6DE961E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

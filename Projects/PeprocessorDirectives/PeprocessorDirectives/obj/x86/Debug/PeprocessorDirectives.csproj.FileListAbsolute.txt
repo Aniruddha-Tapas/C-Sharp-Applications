@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\bin\Debug\PeprocessorDirectives.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\bin\Debug\PeprocessorDirectives.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\PeprocessorDirectives.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\PeprocessorDirectives.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\PeprocessorDirectives.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\PeprocessorDirectives\PeprocessorDirectives\obj\x86\Debug\PeprocessorDirectives.pdb

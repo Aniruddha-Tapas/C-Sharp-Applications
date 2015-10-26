@@ -1,0 +1,9 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\Savefiledialog.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\Savefiledialog.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\bin\Debug\Savefiledialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\bin\Debug\Savefiledialog.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\Savefiledialog.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Savefiledialog\Savefiledialog\obj\x86\Debug\Savefiledialog.pdb

@@ -1,0 +1,11 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\myDLLexample.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\myDLLexample.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\bin\Debug\myDLLexample.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\bin\Debug\myDLLexample.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\bin\Debug\MyDLL.dll
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\bin\Debug\MyDLL.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\myDLLexample.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\myDLLexample\myDLLexample\obj\x86\Debug\myDLLexample.pdb

@@ -1,0 +1,7 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\bin\Debug\ICloneableClass.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\bin\Debug\ICloneableClass.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\obj\x86\Debug\ICloneableClass.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\obj\x86\Debug\ICloneableClass.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\obj\x86\Debug\ICloneableClass.csproj.GenerateResource.Cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\obj\x86\Debug\ICloneableClass.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\ICloneableClass\ICloneableClass\obj\x86\Debug\ICloneableClass.pdb

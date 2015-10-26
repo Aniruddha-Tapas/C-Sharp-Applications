@@ -1,0 +1,10 @@
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\bin\Debug\Createcontrols.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\bin\Debug\Createcontrols.pdb
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\Createcontrols.Form1.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\Createcontrols.MyButton.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\Createcontrols.Properties.Resources.resources
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\Createcontrols.exe
+c:\users\aniruddha\documents\visual studio 2010\Projects\Createcontrols\Createcontrols\obj\x86\Debug\Createcontrols.pdb
